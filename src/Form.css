@@ -1,0 +1,44 @@
+.main{
+    margin-top: 20px;
+    border: 2px solid white;
+    width: 24%;
+    margin-left: 30%;
+    margin-bottom: 30%;
+    padding-bottom: 3%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px aqua;
+    background-color: beige;
+}
+.main h2{
+    padding-left: 35%;
+    padding-top: 10%;
+    font-size: 25px;
+    
+}
+label{
+    margin-left: 20px;
+    margin-bottom: 40px;
+    font-weight: bold;
+    font-size: 20px;
+   
+    
+}
+input{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+}
+button{
+    margin-left:39%;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: bisque;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
